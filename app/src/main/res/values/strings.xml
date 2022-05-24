@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Tabuada</string>
+    <string name="x_symbol">X</string>
+    <string name="btn_result">Resultado</string>
 </resources>
